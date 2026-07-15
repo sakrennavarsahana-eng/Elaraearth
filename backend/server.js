@@ -86,6 +86,10 @@ const sanitizeString = (str) => {
     .trim();
 };
 
+const generateToken = () => {
+  return crypto.randomBytes(32).toString('hex');
+};
+
 // Secure Authentication Middleware
 const requireAdmin = (req, res, next) => {
   const authHeader = req.headers.authorization;
