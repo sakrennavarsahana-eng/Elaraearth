@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": "ubtan-soap",
+      "title": "Ubtan Soap",
+      "description": "An authentic blend of traditional herbs, chickpea flour, and turmeric. Gently exfoliates and brings back your skin's natural golden glow, echoing age-old bathing rituals.",
+      "category": "Ayurvedic Rituals",
+      "price": 195,
+      "ingredients": "Chickpea Flour (Besan), Wild Turmeric (Kasturi Manjal), Sandalwood Powder, Saffron Extracts, Almond Oil, Virgin Coconut Oil.",
+      "benefits": "Deeply cleanses, removes tan, brightens skin tone, and gently exfoliates dead skin cells for a radiant finish.",
+      "image": "https://images.unsplash.com/photo-1607006342411-b01354851a06?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "pure-turmeric-soap",
+      "title": "Pure Turmeric Soap",
+      "description": "Infused with therapeutic turmeric extracts to deeply purify and heal your skin. Its anti-inflammatory properties soothe irritation while leaving a warm, healthy radiance.",
+      "category": "Ayurvedic Rituals",
+      "price": 185,
+      "ingredients": "Organic Turmeric Root Extract, Turmeric Essential Oil, Neem Oil, Pure Glycerin, Castor Oil.",
+      "benefits": "Antibacterial protection, reduces blemishes, helps clear acne scars, and evens out skin discoloration.",
+      "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "turmeric-besan-soap",
+      "title": "Pure Turmeric & Besan Soap",
+      "description": "A perfect double-action Ayurvedic bar combining the skin-firming properties of besan with the protective qualities of turmeric. Exfoliates while nourishing.",
+      "category": "Ayurvedic Rituals",
+      "price": 190,
+      "ingredients": "Turmeric Powder, Bengal Gram Flour (Besan), Sweet Almond Oil, Sesame Oil, Vetiver Essential Oil.",
+      "benefits": "Controls excess oil production, tightens pores, prevents body acne, and maintains skin elasticity.",
+      "image": "https://images.unsplash.com/photo-1607006342411-b01354851a06?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "neem-tulsi-soap",
+      "title": "Neem Tulsi Soap",
+      "description": "A purifying herbal remedy packed with neem and holy basil (tulsi). Crafted specifically to clarify acne-prone skin and provide a deeply refreshing herbal cleanse.",
+      "category": "Ayurvedic Rituals",
+      "price": 180,
+      "ingredients": "Neem Oil, Organic Tulsi Leaves Extract, Tea Tree Oil, Basil Essential Oil, Aloe Vera Extract.",
+      "benefits": "Strong antimicrobial action, fights body odor, controls breakouts, and cools itchy or irritated skin.",
+      "image": "https://images.unsplash.com/photo-1596751303365-74a67598b959?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "pure-honey-soap",
+      "title": "Pure Honey Soap",
+      "description": "A deeply moisturizing bar enriched with wild organic honey and fresh goat milk. Perfect for restoring moisture to dry skin, leaving it incredibly soft and supple.",
+      "category": "Ayurvedic Rituals",
+      "price": 210,
+      "ingredients": "Wild Forest Honey, Fresh Goat Milk, Wheatgerm Oil, Olive Oil, Shea Butter.",
+      "benefits": "Deep hydration, locks in natural moisture, repairs skin barriers, and creates a soft, plump texture.",
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "coffee-scrub-soap",
+      "title": "Coffee Scrub Soap",
+      "description": "Formulated with roasted Arabica coffee grounds and rich cocoa butter. Awakens the skin, improves circulation, and acts as a firming scrub for the entire body.",
+      "category": "Natural Scrubs",
+      "price": 220,
+      "ingredients": "Arabica Coffee Grounds, Coffee Seed Extract, Cocoa Butter, Coconut Oil, Vanilla Essential Oil.",
+      "benefits": "Reduces appearance of cellulite, tightens skin, gently scrubs away dead skin, and leaves a rich aroma.",
+      "image": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "body-scrub-soap",
+      "title": "Body Scrub Soap",
+      "description": "An all-natural exfoliating soap containing crushed apricot seeds and soothing oatmeal. Polishes rough patches on elbows, knees, and heels while keeping skin moisturized.",
+      "category": "Natural Scrubs",
+      "price": 200,
+      "ingredients": "Crushed Apricot Seed Powder, Colloidal Oatmeal, Shea Butter, Eucalyptus Essential Oil.",
+      "benefits": "Removes stubborn dirt and dead cells, smooths rough skin texture, and moisturizes deeply.",
+      "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "aloe-vera-soap",
+      "title": "Aloe Vera Soap",
+      "description": "Made with pure inner-leaf aloe vera gel to cool, soothe, and nourish. A lightweight, gentle daily bar that is perfect for sensitive skin types.",
+      "category": "Skincare",
+      "price": 195,
+      "ingredients": "Pure Aloe Vera Gel, Vitamin E Oil, Cucumber Extract, Coconut Oil, Grapefruit Seed Extract.",
+      "benefits": "Calms sunburns or rashes, supplies vital skin vitamins, hydrates without oiliness, and soothes sensitive skin.",
+      "image": "https://images.unsplash.com/photo-1596751303365-74a67598b959?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "tea-tree-soap",
+      "title": "Tea Tree Oil Soap",
+      "description": "Infused with therapeutic Australian tea tree oil and French green clay. Helps control excess sebum, clarifies pores, and keeps skin feeling fresh and healthy.",
+      "category": "Skincare",
+      "price": 190,
+      "ingredients": "Tea Tree Essential Oil, Green Clay, Rosemary Extract, Glycerin, Olive Oil.",
+      "benefits": "Regulates oily skin, purifies clogged pores, prevents acne, and provides a fresh cooling sensation.",
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "rose-soap",
+      "title": "Rose Soap",
+      "description": "An elegant, moisturizing bar containing pure Kannauj rosewater and organic rose petals. Tones the skin, boosts hydration, and wraps you in a classic, premium floral aroma.",
+      "category": "Skincare",
+      "price": 230,
+      "ingredients": "Steam-distilled Rosewater, Organic Rose Petals, Coconut Milk, Rose Essential Oil, Shea Butter.",
+      "benefits": "Hydrates and tones, slows skin aging, restores natural pH levels, and leaves a premium aromatherapy scent.",
+      "image": "https://images.unsplash.com/photo-1608248597481-496100c8c836?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "lemongrass-soap",
+      "title": "Lemongrass Soap",
+      "description": "Bursting with refreshing lemongrass essential oil and dried lemon peel. A perfect morning bar that revives tired skin and stimulates the senses.",
+      "category": "Skincare",
+      "price": 185,
+      "ingredients": "Lemongrass Essential Oil, Dried Lemon Peel Powder, Vitamin C, Sweet Almond Oil, Coconut Oil.",
+      "benefits": "Clarifies skin complexion, tightens sagging skin pores, eliminates toxins, and boosts mental energy.",
+      "image": "https://images.unsplash.com/photo-1614806687439-d4f10a8ec3a0?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "red-wine-soap",
+      "title": "Red Wine Luxury Soap",
+      "description": "A luxury anti-aging soap infused with organic French red wine extracts and crushed grape seeds. Loaded with natural antioxidants to revive dull, mature skin.",
+      "category": "Luxury Rituals",
+      "price": 290,
+      "ingredients": "Red Wine Extract (Resveratrol), Grape Seed Oil, Crushed Grape Seeds, Extra Virgin Olive Oil, Cocoa Butter.",
+      "benefits": "Rich in antioxidants, reduces signs of aging, stimulates collagen production, and gives a youthful, radiant complexion.",
+      "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "orders": [],
+  "reviews": [
+    {
+      "id": "r1",
+      "productId": "ubtan-soap",
+      "customerName": "Sahana R.",
+      "rating": 5,
+      "title": "Absolutely Traditional & Refreshing!",
+      "comment": "It feels like my grandmother's homemade ubtan. The scrub texture is perfect, and it leaves my skin glowing. Will buy again!",
+      "createdAt": "2026-07-02T10:15:30.000Z"
+    },
+    {
+      "id": "r2",
+      "productId": "neem-tulsi-soap",
+      "customerName": "Rahul K.",
+      "rating": 4,
+      "title": "Great for acne!",
+      "comment": "I have been using it for a week on my back acne and it has reduced drastically. The neem smell is strong but very fresh.",
+      "createdAt": "2026-07-05T14:22:15.000Z"
+    },
+    {
+      "id": "r3",
+      "productId": "red-wine-soap",
+      "customerName": "Priya Hegde",
+      "rating": 5,
+      "title": "Pure Luxury in a Soap!",
+      "comment": "The red wine soap is amazing. It does not dry my skin at all, and it has this beautiful burgundy color. Feels very premium.",
+      "createdAt": "2026-07-10T18:45:00.000Z"
+    },
+    {
+      "id": "r4",
+      "productId": "coffee-scrub-soap",
+      "customerName": "Manjunath S.",
+      "rating": 5,
+      "title": "Excellent morning wakeup scrub",
+      "comment": "The coffee aroma is so invigorating. The grounds provide a great scrub. Highly recommend for a refreshing morning bath.",
+      "createdAt": "2026-07-12T08:30:00.000Z"
+    },
+    {
+      "id": "r5",
+      "productId": "rose-soap",
+      "customerName": "Aishwarya M.",
+      "rating": 5,
+      "title": "Smells like heaven",
+      "comment": "This rose soap is so gentle and smells exactly like fresh roses, not artificial perfume. My skin feels super soft.",
+      "createdAt": "2026-07-14T11:05:00.000Z"
+    }
+  ]
+}
