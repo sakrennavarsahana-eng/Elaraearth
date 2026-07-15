@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-deployed-backend-url.onrender.com/api/:path*"
+      "destination": "https://elaraearth.onrender.com/api/:path*"
     },
     {
       "source": "/(admin|cart|checkout)",
