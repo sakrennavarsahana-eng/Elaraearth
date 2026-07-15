@@ -30,8 +30,8 @@ app.use(express.json());
 const activeSessions = new Set();
 
 const ADMIN_CREDENTIALS = {
-  username: 'elaraadmin',
-  password: 'ElaraEarth@2024',
+  username: 'elara@2810',
+  password: 'ElaraEarth@2810',
 };
 
 // Rate Limiters
